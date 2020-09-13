@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="number_0">0</string>
+    <string name="number_1">1</string>
+    <string name="number_2">2</string>
+    <string name="number_3">3</string>
+    <string name="number_4">4</string>
+    <string name="number_5">5</string>
+    <string name="number_6">6</string>
+    <string name="number_7">7</string>
+    <string name="number_8">8</string>
+    <string name="number_9">9</string>
+    <string name="backspace_button">\u232b</string>
+    <string name="c_button">C</string>
+    <string name="equals_button">\u003d</string>
+    <string name="plus_minus_button">\u002b\u002f\u2212</string>
+    <string name="minus_button">\u2212</string>
+    <string name="multiplication_button">\u00d7</string>
+    <string name="percent_button">\u0025</string>
+    <string name="period_button">\u002e</string>
+    <string name="plus_button">\u002b</string>
+    <string name="division_button">\u00F7</string>
+    <string name="error">Error!</string>
+    <string name="point">.</string>
+    <string name="zero">0</string>
+</resources>
